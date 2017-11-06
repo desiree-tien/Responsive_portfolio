@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777;
-  background: url("../images/concrete_seamless.png");
+  background-image: url("https://raw.githubusercontent.com/desiree-tien/Responsive_portfolio/master/concrete_seamless.png");
 }
 
 * {
